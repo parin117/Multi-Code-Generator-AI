@@ -262,12 +262,6 @@ Output: Full-featured blog platform with:
 - Comment system
 ```
 
-## 🛠️ Development
-
-### Running Tests
-```bash
-# Add test commands here when tests are implemented
-```
 
 ### Code Style
 The project follows PEP 8 Python style guidelines. Consider using:
@@ -302,10 +296,6 @@ Contributions are welcome! Please follow these steps:
 - Update README if adding new features
 - Test your changes before submitting
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🐛 Known Issues
 
 - Project path is currently hardcoded in `workflow_orchestrator.py` (line 396)
@@ -321,24 +311,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [ ] Real-time progress tracking
 - [ ] Project customization options
 
-## 📞 Support
 
-For issues, questions, or contributions:
-- Open an issue on [GitHub](https://github.com/parin117/Toxic-Comment-Classifier/issues)
-- Check existing issues and discussions
-
-## 🙏 Acknowledgments
-
-- Built with [LangChain](https://www.langchain.com/)
-- Powered by [LangGraph](https://github.com/langchain-ai/langgraph)
-- Uses [Google Gemini](https://deepmind.google/technologies/gemini/) for LLM capabilities
-
-## 📊 Project Status
-
-**Current Version**: 1.0.0
-
-**Status**: Active Development
-
----
-
-Made with ❤️ using AI-powered code generation
+Made with ❤️
